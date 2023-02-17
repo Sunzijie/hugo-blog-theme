@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 
+title: 孙子杰
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 带砖人
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 合肥
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
